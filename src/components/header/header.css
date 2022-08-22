@@ -1,0 +1,29 @@
+.wrapper {
+  min-height: 40vh;
+  margin: 0;
+  padding: 0;
+  background-image: url("../../assets/images/bg-desktop-light.jpg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.wrapper .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.wrapper .title-container {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+.wrapper .title {
+  color: #fff;
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  display: flex;
+  justify-content: center;
+} /*# sourceMappingURL=header.css.map */
