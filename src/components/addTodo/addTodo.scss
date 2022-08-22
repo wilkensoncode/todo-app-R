@@ -5,6 +5,10 @@
   .todo-form-container {
     position: absolute;
     top: -150px;
+
+    .box-shodow {
+      box-shadow: 1px 1px 1px 5px #25273c;
+    }
   }
   .addTodo-container {
     width: 50%;

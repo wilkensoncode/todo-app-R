@@ -6,6 +6,9 @@
   position: absolute;
   top: -150px;
 }
+.form-container .todo-form-container .box-shodow {
+  box-shadow: 1px 1px 1px 5px #25273c;
+}
 .form-container .addTodo-container {
   width: 50%;
   position: relative;
